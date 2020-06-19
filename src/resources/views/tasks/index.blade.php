@@ -22,7 +22,7 @@
           </form>
         </li>
       @empty
-        <li>アーティスト、曲、点数を入力してください</li>
+        <li>Taskを入力してください</li>
       @endforelse
 
     </ul>
